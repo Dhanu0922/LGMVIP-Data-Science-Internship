@@ -1,6 +1,7 @@
 # LGMVIP-Data-Science-Internship
 Let's Grow More Virtual Internship Programme
 Beginner Level 
+
 TASK-2
 Stock Market Prediction And Forecasting Using Stacked LSTM
 Datasetlinks: : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
